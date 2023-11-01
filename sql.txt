@@ -1,1 +1,5 @@
 sql daily updates
+
+monthly updates
+
+yearly updates
