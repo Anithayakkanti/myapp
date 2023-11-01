@@ -1,5 +1,10 @@
 sql daily updates
 
+<<<<<<< Updated upstream
 montly updates
 
 
+=======
+weakly updates
+ 
+>>>>>>> Stashed changes
